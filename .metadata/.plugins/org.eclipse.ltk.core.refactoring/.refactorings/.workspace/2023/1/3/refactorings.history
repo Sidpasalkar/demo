@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Pay_pal&apos; to &apos;Frameworkpractise&apos;&#x0D;&#x0A;- Original element: &apos;Pay_pal&apos;&#x0D;&#x0A;- Renamed element: &apos;Pay_pal&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Pay_pal&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Pay_pal" name="Frameworkpractise" references="true" stamp="1674051577488" version="1.0"/>
+</session>
